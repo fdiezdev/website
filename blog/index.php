@@ -5,5 +5,4 @@
             <li>No posts (yet!)</li>
         </ul>
     </div>
-   <hr>
 <?php include("../footer.php") ?>
