@@ -8,5 +8,4 @@
             <li><h3>Shazam clone using Python</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
         </ul>
     </div>
-   <hr>
 <?php include("./footer.php") ?>

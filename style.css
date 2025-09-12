@@ -112,3 +112,10 @@ footer {
         font-size: 1.1rem;
     }
 }
+
+.project-resources {
+    background-color: #f5f5f5;
+    color: black;
+    padding: 1px .8rem .8rem .8rem;
+    border-top: 5px solid brown;
+}
