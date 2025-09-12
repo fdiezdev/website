@@ -55,7 +55,10 @@
           Since the electrical activity of the heart only produces signals in the range of 0.05 to 100 Hz, but mostly up to 40/50 Hz, this is the band I'm going to be focusing on this design.
         </p>
         <p>In the following scheme, we can see the basic frequency structure of the filter:</p>
-        <img src="img/ecg-filter-freq-graph.jpeg" width="100%" alt="Frequency diagram of the filter">
+        <figure>
+          <img src="img/ecg-filter-freq-graph.jpeg" width="100%" alt="Frequency diagram of the filter">
+          <figcaption>Fig. 1: Frequency diagram of the filter</figcaption>
+        </figure>
         <p>It is important to mention that real equipment uses more complex filters, adding more layers of filtering to this basic desing.</p>
 
         <h2>The ECG signal</h2>

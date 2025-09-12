@@ -1,11 +1,8 @@
 <?php include("./header.php") ?>
-    <div>
-        <h3 style="background-color: brown; padding: .5%; color: white;">Recent projects</h3>
-        <ul>
-            <li><h3>Alzheimers exploratory data analysis</h3><a href="#"><button>Read project</button></a></li>
-            <li><h3>ECG signal digital filter using C++</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
-            <li><h3>High noise warning device for NICU</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
-            <li><h3>Shazam clone using Python</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
-        </ul>
+    <div class="blog-article">
+        <p>My name is Francisco Diez, I'm a biomedical engineering undergraduate at Universidad Nacional de Córdoba, Argentina 🇦🇷🧉</p>
+        <p>I was always passionate about software development, and ever since I started my studies in the medical field engineering, I became really interested in software development applied to medical pourposes and data science.</p>
+        <p>That's why I started, parallel to my university studies, my own learning path with different online courses and books. Now I'm studiying C and Python with a data science approach.</p>
+        <p>If you would like to get in touch, feel free to <a href="https://fdiez.com.ar/contact/">contact me.</a></p></p>
     </div>
 <?php include("./footer.php") ?>

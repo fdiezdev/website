@@ -1,6 +1,6 @@
 <?php include("../header.php") ?>
     <div>
-        <h1 style="background-color: brown; padding: .5%; color: white;">Recent projects</h1>
+        <h2 style="background-color: brown; padding: .5%; color: white;">Recent projects</h2>
         <ul>
             <li><h3>Alzheimers exploratory data analysis</h3><a href="#"><button>Read project</button></a></li>
             <li><h3>ECG signal digital filter using C++</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
