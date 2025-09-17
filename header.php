@@ -8,12 +8,12 @@
 </head>
 <body>
     <div>
-        <span>This website is currently being developed and is not ready yet!</span>
+        <p style="text-align: center;">This website is currently being developed and is not ready yet!</p>
     </div>
    <div style="text-align: center;">
         <!--<h1>Francisco Diez</h1>-->
         <a href="https://fdiez.com.ar"><img src="/img/logo.png" alt="Logo" width="120rem"></a>
-        <p><i>Biomedical engineering student, programmer and data science enthusiast.</i></p>
+        <!--<p><i>Biomedical engineering student, programmer and data science enthusiast.</i></p>-->
    </div>
    <hr>
    <nav>
