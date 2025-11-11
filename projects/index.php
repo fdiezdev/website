@@ -4,6 +4,7 @@
         <ul>
             <li><h3>Alzheimers exploratory data analysis</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
             <li><h3>ECG signal digital filter using Python</h3><a href="https://fdiez.com.ar/projects/ecg.php"><button>Read project</button></a></li>
+            <li><h3>Syringe infusion pump using Arduino</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
             <li><h3>Adapting ECG filter to C++</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
             <li><h3>High noise warning device for NICU</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
             <li><h3>Shazam clone using Python</h3><a href="#"><button disabled>Read project</button></a> &nbsp; under deveplopment!</li>
